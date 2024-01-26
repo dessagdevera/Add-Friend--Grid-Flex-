@@ -53,6 +53,11 @@ button {
   color: white;
   border-radius: 5px;
   border-width: 0;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #105cb8;
 }
 .content {
   padding: 10px;
